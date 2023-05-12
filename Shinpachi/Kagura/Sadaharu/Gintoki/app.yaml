@@ -1,5 +1,3 @@
-runtime:_python310
-
 runtime: python310
 api_version: 1
 threadsafe: true
