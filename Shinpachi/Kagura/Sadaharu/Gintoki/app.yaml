@@ -1,7 +1,0 @@
-runtime: python310
-api_version: 1
-threadsafe: true
-
-handlers:
-- url: /.*
-  script: Ken.app
